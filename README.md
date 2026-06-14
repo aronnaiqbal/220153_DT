@@ -49,13 +49,6 @@ The model was optimized using hyperparameter tuning to find the best combination
 ### Best Model
 The optimized Decision Tree model was selected based on validation performance.
 
-### Saved Files
-
-- model/decision_tree_model.pkl
-- model/scaler.pkl
-
----
-
 ## Model Evaluation
 
 The performance of the optimized model was evaluated using multiple metrics:
@@ -66,7 +59,7 @@ The performance of the optimized model was evaluated using multiple metrics:
 - F1 Score
 - ROC-AUC Score
 
----
+![image alt](https://github.com/aronnaiqbal/220153_DT/blob/3258d6018a39ab076fd86d3d4f74858ce8ee4248/Screenshot/Screenshot%202026-06-14%20210918.png)
 
 ## Visualizations
 
@@ -90,9 +83,7 @@ The confusion matrix visualizes correct and incorrect classifications made by th
 
 The ROC curve demonstrates the classification performance across different threshold values.
 
-(Insert ROC Curve Screenshot Here)
-
----
+![image alt](https://github.com/aronnaiqbal/220153_DT/blob/3258d6018a39ab076fd86d3d4f74858ce8ee4248/Screenshot/Screenshot%202026-06-14%20210918.png)
 
 ### 4. Evaluation Metrics Bar Chart
 
@@ -104,9 +95,8 @@ This chart compares the major evaluation metrics:
 - F1 Score
 - ROC-AUC
 
-(Insert Metrics Bar Chart Screenshot Here)
+![image alt](https://github.com/aronnaiqbal/220153_DT/blob/3258d6018a39ab076fd86d3d4f74858ce8ee4248/Screenshot/Screenshot%202026-06-14%20210918.png)
 
----
 
 ### Combined Model Comparison
 
@@ -119,10 +109,8 @@ A combined chart was generated to compare the performance of different Decision 
 ### 5. Decision Tree Structure Visualization
 
 The optimized Decision Tree structure was visualized to understand how decisions are made at each node.
+![image alt](https://github.com/aronnaiqbal/220153_DT/blob/445142622532960a0b40adb05109e6e0145fb4b5/Screenshot/Screenshot%202026-06-14%20211004.png)
 
-(Insert Decision Tree Structure Screenshot Here)
-
----
 
 ## Model Interpretation
 
