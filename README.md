@@ -79,7 +79,7 @@ This chart compares the major evaluation metrics:
 - Recall
 - F1 Score
 - ROC-AUC
-![image alt](https://github.com/aronnaiqbal/220153_DT/blob/3258d6018a39ab076fd86d3d4f74858ce8ee4248/Screenshot/Screenshot%202026-06-14%20210918.png)
+![image alt](https://github.com/aronnaiqbal/220153_DT/blob/e98f83606eb8b98e8e99341eaf999fd77ca94240/Screenshot/Screenshot%202026-06-14%20210929.png)
 
 
 ### 5. Decision Tree Structure Visualization
