@@ -1,15 +1,7 @@
 # 220153_DT
-![image alt](https://github.com/aronnaiqbal/220153_DT/blob/25d19958e83065ace9591a2d7361c968602d55bc/Screenshot/Screenshot%202026-06-14%20183638%20-%20Copy.png)
-![image alt](https://github.com/aronnaiqbal/220153_DT/blob/e37e102e6e146d20797379238692d06e0e0ed4cd/Screenshot/Screenshot%202026-06-14%20210909.png)
-![image alt](https://github.com/aronnaiqbal/220153_DT/blob/3258d6018a39ab076fd86d3d4f74858ce8ee4248/Screenshot/Screenshot%202026-06-14%20210918.png)
-![image alt](https://github.com/aronnaiqbal/220153_DT/blob/3a02a196e227a49f7c33f16a863b61683fd5660d/Screenshot/Screenshot%202026-06-14%20210929.png)
-![image alt](https://github.com/aronnaiqbal/220153_DT/blob/445142622532960a0b40adb05109e6e0145fb4b5/Screenshot/Screenshot%202026-06-14%20211004.png)
-
 
 ## Project Overview
 This project implements the Decision Tree Classification algorithm using Python and Scikit-Learn. The objective is to build a classification model, optimize its hyperparameters, evaluate its performance, and visualize the decision-making process of the trained model.
-
----
 
 ## Dataset
 
@@ -20,7 +12,6 @@ Purpose:
 - Training and evaluating the Decision Tree classifier.
 - Predicting class labels based on input features.
 
----
 
 ## Data Preprocessing
 
@@ -31,7 +22,6 @@ Purpose:
 - Training and testing sets created
 - Features and target variable separated
 
----
 
 ## Model Training
 
@@ -59,25 +49,20 @@ The performance of the optimized model was evaluated using multiple metrics:
 - F1 Score
 - ROC-AUC Score
 
-![image alt](https://github.com/aronnaiqbal/220153_DT/blob/3258d6018a39ab076fd86d3d4f74858ce8ee4248/Screenshot/Screenshot%202026-06-14%20210918.png)
-
 ## Visualizations
 
 ### 1. Decision Boundary Plot
 
 This visualization shows how the Decision Tree classifier separates different classes in the feature space.
 
-(Insert Decision Boundary Plot Screenshot Here)
-
----
+![image alt](https://github.com/aronnaiqbal/220153_DT/blob/25d19958e83065ace9591a2d7361c968602d55bc/Screenshot/Screenshot%202026-06-14%20183638%20-%20Copy.png)
+![image alt]
 
 ### 2. Confusion Matrix Heatmap
 
 The confusion matrix visualizes correct and incorrect classifications made by the model.
 
-(Insert Confusion Matrix Screenshot Here)
-
----
+![image alt](https://github.com/aronnaiqbal/220153_DT/blob/e37e102e6e146d20797379238692d06e0e0ed4cd/Screenshot/Screenshot%202026-06-14%20210909.png)
 
 ### 3. ROC Curve Plot
 
@@ -94,17 +79,8 @@ This chart compares the major evaluation metrics:
 - Recall
 - F1 Score
 - ROC-AUC
-
 ![image alt](https://github.com/aronnaiqbal/220153_DT/blob/3258d6018a39ab076fd86d3d4f74858ce8ee4248/Screenshot/Screenshot%202026-06-14%20210918.png)
 
-
-### Combined Model Comparison
-
-A combined chart was generated to compare the performance of different Decision Tree configurations/models.
-
-(Insert Combined Comparison Chart Screenshot Here)
-
----
 
 ### 5. Decision Tree Structure Visualization
 
@@ -116,7 +92,6 @@ The optimized Decision Tree structure was visualized to understand how decisions
 
 The Decision Tree classifier learns a sequence of decision rules from the training data. Each internal node represents a feature-based decision, while each leaf node represents a final class prediction. The optimized tree successfully separates the classes by selecting the most informative features and splitting points.
 
----
 
 ## Conclusion
 
