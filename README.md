@@ -6,7 +6,7 @@ This project implements the Decision Tree Classification algorithm using Python 
 ## Dataset
 
 ### Dataset Used
-File: dataset/dataset.csv
+File: Dataset/Titanic-Dataset.csv
 
 Purpose:
 - Training and evaluating the Decision Tree classifier.
